@@ -1,0 +1,4 @@
+# Les fichiers originaux (photos WhatsApp et vidéos de référence) restent dans le dossier
+# mais ne sont pas nécessaires au déploiement : le site utilise public/.
+WhatsApp*
+references/
